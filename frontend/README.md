@@ -48,3 +48,4 @@ export default tseslint.config({
   },
 })
 ```
+- Hi, I am a coder.. But I did not right a single line of code.
